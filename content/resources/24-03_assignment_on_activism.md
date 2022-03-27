@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 41ef0258-4a8c-60b9-9aa5-542043852814
 resourcetype: Document
 title: 'Assignment 3: Activism'
 uid: ce3d3092-cff2-e898-be6d-32da17d4f352
