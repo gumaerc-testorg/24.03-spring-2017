@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 8098ca00-e13f-417a-1bdd-2ca7704f2300
 ---
@@ -235,7 +237,7 @@ Assignment 2: Flow due
 Speciesism
 {{< tdclose >}}
 {{< tdopen >}}
-1st Paper Rewrite due
+1{{< sup "st" >}} Paper Rewrite due
 {{< tdclose >}}
 
 {{< trclose >}}
