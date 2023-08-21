@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -66,14 +67,14 @@ Paper 1 (1250 words (5 pages))
 
 Topics will be distributed in advance and will ask students to analyze and discuss material covered in class.
 
-[First Paper Topics (PDF)]({{< baseurl >}}/resources/24-03_firstpapertopics)
+{{% resource_link 935e0e79-9eb4-f3a7-76df-6aae52f124af "First Paper Topics (PDF)" %}}
 
 Paper 2 (1250 words (5 pages))
 ------------------------------
 
 You have a choice of writing on topics distributed in class or on a topic you pose (original paper topics must be approved in advance).
 
-[Second Paper Topics (PDF)]({{< baseurl >}}/resources/24-03_second_paper_topics_17)
+{{% resource_link 8a738f3f-056c-27ef-7ace-fce159d66690 "Second Paper Topics (PDF)" %}}
 
 Final Paper
 -----------
