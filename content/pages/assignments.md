@@ -1,15 +1,14 @@
 ---
 content_type: page
-description: ''
+description: This section contains information on the course assignments.
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: 41ef0258-4a8c-60b9-9aa5-542043852814
 ---
-
-Assignment 1: Pond and Charity
-------------------------------
+## Assignment 1: Pond and Charity
 
 In his essay, "Famine, Affluence, and Morality," Singer argues that there is a close analogy between POND and CHARITY (see p. 38 of FES).
 
@@ -19,31 +18,28 @@ In his essay, "Famine, Affluence, and Morality," Singer argues that there is a c
 
 3\. Suppose someone objected:
 
-But in POND, there is one drowning child. In CHARITY, there are too many starving children to help by a single action, so I would have to give something additional up daily for my whole life. This is too much to ask.  
+But in POND, there is one drowning child. In CHARITY, there are too many starving children to help by a single action, so I would have to give something additional up daily for my whole life. This is too much to ask.   
 How would Singer respond? 
 
-Assignment 2: Flow
-------------------
+## Assignment 2: Flow
 
 Please write 250-500 words (total) on the following questions.
 
-1\. Please describe one segment of or image from the film _Flow_ that you found powerful. What message did you get from it?
+1\. Please describe one segment of or image from the film *Flow* that you found powerful. What message did you get from it?
 
 2\. Please critically reflect on the message in your own terms. Did you see connections with readings we have done so far on global justice, food security, food sovereignty, the social meaning of food/water, capitalism, labor justice?
 
 3\. If you were to teach someone something you learned from the film, what would you tell them?
 
-Assignment 3: Activism
-----------------------
+## Assignment 3: Activism
 
 Please read Brian Martin, “[Activism, Social and Political](http://www.bmartin.cc/pubs/07Anderson.html).” and reflect on the question: do we all have a moral responsibility to be engaged in activism in the current social context, (and if not all, then who)? You may consider activism on any topic, e.g., food security, animal welfare, LGBTQ rights, feminism, antiracism, smaller government, pro-life, pro-choice, prayer in public schools, or any other topic that matters to you.
 
-Assignment 4: Food for Free
----------------------------
+## Assignment 4: Food for Free
 
 Please write 250-500 words (total) on the following questions.
 
-Please go to [Food for Free](http://foodforfree.org) and have a look at the [2016 report on hunger in Massachusetts](https://www.franklinfoodpantry.org/about-us/about-hunger/) and write a reflection answering the questions above with respect to what you learned from these resources about Food for Free’s work.
+Please go to [Food for Free](http://foodforfree.org) and have a look at the 2016 report on hunger in Massachusetts and write a reflection answering the questions above with respect to what you learned from these resources about Food for Free’s work.
 
 1\. Please describe one idea that you found powerful. What message did you get from it?
 
@@ -51,8 +47,7 @@ Please go to [Food for Free](http://foodforfree.org) and have a look at the [20
 
 3\. If you were to teach someone something you learned from the presentation, what would you tell them?
 
-Assignment 5: Personal Reflection
----------------------------------
+## Assignment 5: Personal Reflection
 
 Please write 250-500 words (total) addressing the questions below.
 
@@ -62,44 +57,39 @@ Please write 250-500 words (total) addressing the questions below.
 
 3\. Is there any way in which the course has affected your actions and choices (note that “not at all” is an option!)? Do you think any of the arguments should prompt you to change your actions, even you aren’t inclined to change? Are there ways they may change your actions in the future? (Why or why not?)
 
-Paper 1 (1250 words (5 pages))
-------------------------------
+## Paper 1 (1250 words (5 pages))
 
 Topics will be distributed in advance and will ask students to analyze and discuss material covered in class.
 
-{{% resource_link 935e0e79-9eb4-f3a7-76df-6aae52f124af "First Paper Topics (PDF)" %}}
+{{% resource_link "935e0e79-9eb4-f3a7-76df-6aae52f124af" "First Paper Topics (PDF)" %}}
 
-Paper 2 (1250 words (5 pages))
-------------------------------
+## Paper 2 (1250 words (5 pages))
 
 You have a choice of writing on topics distributed in class or on a topic you pose (original paper topics must be approved in advance).
 
-{{% resource_link 8a738f3f-056c-27ef-7ace-fce159d66690 "Second Paper Topics (PDF)" %}}
+{{% resource_link "8a738f3f-056c-27ef-7ace-fce159d66690" "Second Paper Topics (PDF)" %}}
 
-Final Paper
------------
+## Final Paper
 
 Option A: Option A: Expansion of paper 2. Based on feedback on paper 2, you will develop your argument in paper 3 (2500 words (10 pages)).
 
 Option B: Option B: New paper. You will write on a topic that you pose. Please use the same topic proposal form that was distributed for paper 2. 1250 words (5 pages).
 
-Final Communication Project
----------------------------
+## Final Communication Project
 
-_Media Option_: Students who choose this option will create a pamphlet, lesson plan, wiki, blog or webpage in which they (a) introduce a moral question concerning food choices or food policy, (b) provide material that presents arguments on different sides of the issue, (c) outline the arguments on each side in their strongest (most plausible) form and (d) give a brief evaluation of the arguments and draws conclusions, where possible. (If a lesson plan, the product should also include an activity that will prompt reflection or discussion.) The product should also provide information about where to find more information on the topic.
+*Media Option*: Students who choose this option will create a pamphlet, lesson plan, wiki, blog or webpage in which they (a) introduce a moral question concerning food choices or food policy, (b) provide material that presents arguments on different sides of the issue, (c) outline the arguments on each side in their strongest (most plausible) form and (d) give a brief evaluation of the arguments and draws conclusions, where possible. (If a lesson plan, the product should also include an activity that will prompt reflection or discussion.) The product should also provide information about where to find more information on the topic.
 
-_Activism Option_: Students who choose this option will engage in some form of activism around food justice. This may involve doing volunteer work at a local organization (at least 5 hours - documented), starting a petition, holding a forum in your living group, etc.
+*Activism Option*: Students who choose this option will engage in some form of activism around food justice. This may involve doing volunteer work at a local organization (at least 5 hours - documented), starting a petition, holding a forum in your living group, etc.
 
 A short description of the completed activist action (250 words) must be submitted.
 
 There is no final exam for the course.
 
-Notes
------
+## Notes
 
 **You must revise and resubmit one paper**. This is **required** for all students. You are required to revise your first paper. Your grade for the revised paper will be the average of the grades for the two versions.
 
-Revised papers are held to a higher standard than the originals. That means that no matter how well you did the first time around, if you do not make substantial improvements in your revision, your grade will not go up (it may even, in extreme cases, go down). _Give your entire paper a pass_ to find ways you can make it more clear, more concise, and more compelling. 
+Revised papers are held to a higher standard than the originals. That means that no matter how well you did the first time around, if you do not make substantial improvements in your revision, your grade will not go up (it may even, in extreme cases, go down). *Give your entire paper a pass* to find ways you can make it more clear, more concise, and more compelling. 
 
 **How to cite a source:**
 
