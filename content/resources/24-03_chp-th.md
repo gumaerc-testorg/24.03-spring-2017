@@ -2,7 +2,7 @@
 content_type: resource
 description: Black and white image of empty bottles on a metal lid with a concrete
   background.
-file: /ol-ocw-studio-app/courses/24-03-good-food-ethics-and-politics-of-food-spring-2017/c971f763817338d412c871305bc68287_24-03_chp-th.jpg
+file: /courses/24-03-good-food-ethics-and-politics-of-food-spring-2017/c971f763817338d412c871305bc68287_24-03_chp-th.jpg
 file_size: 4955
 file_type: image/jpeg
 image_metadata:
