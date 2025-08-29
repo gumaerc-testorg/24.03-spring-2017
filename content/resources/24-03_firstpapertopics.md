@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Options for first paper topics in 24.03 Spring 2017
-file: /courses/24-03-good-food-ethics-and-politics-of-food-spring-2017/935e0e799eb4f3a776df6aae52f124af_24.03_firstpapertopics.pdf
+file: /ol-ocw-studio-app/courses/24-03-good-food-ethics-and-politics-of-food-spring-2017/935e0e799eb4f3a776df6aae52f124af_24.03_firstpapertopics.pdf
 file_size: 96088
 file_type: application/pdf
 learning_resource_types:
