@@ -145,7 +145,7 @@ _No lecture notes available_
 14: Film Screening
 {{< tdclose >}}
 {{< tdopen >}}
-Watch [Flow: For the Love of Water](http://www.imdb.com/title/tt1149583/)
+Watch {{% resource_link "8ae2e7da-306e-4a70-abca-2153bdef654a" "Flow: For the Love of Water" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
