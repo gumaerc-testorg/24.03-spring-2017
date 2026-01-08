@@ -33,13 +33,13 @@ Please write 250-500 words (total) on the following questions.
 
 ## Assignment 3: Activism
 
-Please read Brian Martin, “{{% resource_link "fa31ab58-a210-4252-94a3-e24c2aaac781" "Activism, Social and Political" %}}.” and reflect on the question: do we all have a moral responsibility to be engaged in activism in the current social context, (and if not all, then who)? You may consider activism on any topic, e.g., food security, animal welfare, LGBTQ rights, feminism, antiracism, smaller government, pro-life, pro-choice, prayer in public schools, or any other topic that matters to you.
+Please read Brian Martin, “[Activism, Social and Political](http://www.bmartin.cc/pubs/07Anderson.html).” and reflect on the question: do we all have a moral responsibility to be engaged in activism in the current social context, (and if not all, then who)? You may consider activism on any topic, e.g., food security, animal welfare, LGBTQ rights, feminism, antiracism, smaller government, pro-life, pro-choice, prayer in public schools, or any other topic that matters to you.
 
 ## Assignment 4: Food for Free
 
 Please write 250-500 words (total) on the following questions.
 
-Please go to {{% resource_link "82912ca6-9bee-4635-86db-0da7a4219e25" "Food for Free" %}} and have a look at the 2016 report on hunger in Massachusetts and write a reflection answering the questions above with respect to what you learned from these resources about Food for Free’s work.
+Please go to [Food for Free](http://foodforfree.org) and have a look at the 2016 report on hunger in Massachusetts and write a reflection answering the questions above with respect to what you learned from these resources about Food for Free’s work.
 
 1\. Please describe one idea that you found powerful. What message did you get from it?
 
